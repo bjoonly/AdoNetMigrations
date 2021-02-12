@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\AdoNetMigrations.exe.config
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\AdoNetMigrations.exe
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\AdoNetMigrations.pdb
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.csproj.CopyComplete
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.exe
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.pdb
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.Migrations.Init.resources
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AdoNetMigrations\AdoNetMigrations\obj\Debug\AdoNetMigrations.Migrations.SetSongsAlbums.resources
